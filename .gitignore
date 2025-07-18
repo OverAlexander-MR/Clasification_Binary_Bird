@@ -1,3 +1,4 @@
 # Ignorar carpetas con datos y documentos
 articulos/
 birdclef-2025/
+pretrained_models/
