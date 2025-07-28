@@ -32,9 +32,9 @@ Durante el proceso de optimización de hiperparámetros para cada clasificador b
 
 Este debe ser ejecutado en una terminal abierta con la carpeta dentro de la carpeta `Tuning_Optuna_Clasificadores_Binarios` e ingresar a la carpeta de la clase y luego a la del tipo de procesamiento que se desea analizar por medio del dashboard, en esa carpeta se encuentra el archivo `optuna_tuning.db`. Esto despliega una interfaz web local en la dirección `(http://127.0.0.1:8080/)`, desde la cual se puede observar:
 
-## La evolución del valor objetivo (AUC-ROC) a lo largo de los ensayos.
-## La importancia relativa de los hiperparámetros mediante Hyperparameter Importance.
-## La distribución y correlación de los hiperparámetros más influyentes.
-## El historial de exploración de valores con Parallel Coordinates y Slice plots.
+#### La evolución del valor objetivo (AUC-ROC) a lo largo de los ensayos.
+#### La importancia relativa de los hiperparámetros mediante Hyperparameter Importance.
+#### La distribución y correlación de los hiperparámetros más influyentes.
+#### El historial de exploración de valores con Parallel Coordinates y Slice plots.
 
 Este dashboard fue clave para comprender qué configuraciones de hiperparámetros fueron más efectivas para cada tipo de clasificador (Random Forest, XGBoost, SVM y Regresión Logística) y cada grupo animal (Aves, Anfibios, Mamíferos e Insectos).
