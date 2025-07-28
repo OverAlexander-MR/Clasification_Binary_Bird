@@ -1,0 +1,6 @@
+{
+    "penalty": "l1",
+    "solver": "saga",
+    "C": 0.29881033209204877,
+    "class_weight": "balanced"
+}

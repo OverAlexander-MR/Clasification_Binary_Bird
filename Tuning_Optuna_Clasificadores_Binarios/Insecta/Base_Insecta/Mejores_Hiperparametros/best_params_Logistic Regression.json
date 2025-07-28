@@ -1,0 +1,6 @@
+{
+    "penalty": "elasticnet",
+    "C": 0.0422633582892231,
+    "l1_ratio": 0.41874855004887884,
+    "class_weight": null
+}
