@@ -1,0 +1,7 @@
+{
+    "kernel": "rbf",
+    "C": 135.36567698006465,
+    "gamma": "auto",
+    "class_weight": "balanced",
+    "tol": 0.0018857723251714126
+}

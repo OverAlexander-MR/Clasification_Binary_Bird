@@ -1,0 +1,6 @@
+{
+    "penalty": "l1",
+    "solver": "liblinear",
+    "C": 0.007566599142613765,
+    "class_weight": "balanced"
+}
