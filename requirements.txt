@@ -5,7 +5,7 @@ aiohttp==3.12.14
 aiosignal==1.4.0
 antlr4-python3-runtime==4.9.3
 anyio==3.7.1
-asteroid @ git+https://github.com/asteroid-team/asteroid.git@4ee495857295f945e0a8e1ddc59546cf9d3a1a20
+# asteroid @ git+https://github.com/asteroid-team/asteroid.git@4ee495857295f945e0a8e1ddc59546cf9d3a1a20
 asteroid-filterbanks==0.4.0
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1733250440834/work
 astunparse==1.6.3
